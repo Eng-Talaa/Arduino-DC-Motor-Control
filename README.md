@@ -13,7 +13,7 @@ This project demonstrates the control of four DC motors using an Arduino Uno and
 
 ## Simulation
 
-![Tinkercad Design](tinkercad-design.png)
+![Tinkercad Design](simulation.png)
 
 Tinkercad Project:  
 [Tinkercad Simulation](https://www.tinkercad.com/things/g6zAcJQIuyV-dc-motor?sharecode=qHgHvqwwCkCLH2h46hTQqkm7n8vYN9H4xUGCGx_DTdU)
