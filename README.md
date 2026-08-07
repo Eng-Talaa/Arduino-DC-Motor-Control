@@ -5,7 +5,7 @@ This project demonstrates the control of four DC motors using an Arduino Uno and
 ## Hardware Components
 
 - Arduino Uno R3
-- 2 × L293D H-Bridge Motor Drivers
+- 2 × L293D Motor Driver
 - 4 × DC Motors
 - Breadboard
 - 9V Battery
